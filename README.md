@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EtmamRakin
+- 👋 Hi, I’m Rakin
 
 
 <!---
